@@ -129,6 +129,14 @@ color = get_new_color()
 border_size = random.randint(1, 10)
 draw_polygon(num_sides, size, orientation, location, color, border_size)
 
+
+def run(self):
+    while (True):
+        turtle.clear()
+        for i in range(self.number):
+            self.ball_list[i].draw()
+            self.ball_list[i].move()
+        turtle.update()
 # hold the window; close it by clicking the window close 'x' mark
 turtle.done()
 

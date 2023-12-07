@@ -4,4 +4,4 @@
 - Read the instructions given in the course's Google Classroom and start coding
 - Once you are done, push your final code to your Github repo and modify this README to report on the work you have done
 
-Im trying to write in oop style and trying to fix code
+I am trying to write in oop style and trying to fix code and i try to generate a shape in a shape
